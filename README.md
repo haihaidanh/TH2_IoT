@@ -125,7 +125,3 @@ Kết quả mong đợi:
 - **Bài 3:** tạo direct exchange, bind đúng routing key, message được phân phối chính xác
   tới từng queue.
 
-## 5. Ảnh minh chứng
-
-*(chèn ảnh chụp màn hình terminal của từng bài, và trang quản lý http://localhost:15672
-nếu có)*
